@@ -60,6 +60,7 @@ pip install -r requirements.txt
 
 # Run the application
 flask run
+```
 
 ## API Endpoints
 
@@ -72,4 +73,10 @@ flask run
 
    - **Description:** Get user information.
    - **Method:** GET
-```
+
+## Authors
+
+- Emelyne Uwimbabazi - [Github](https://github.com/emelyne1234)
+- Fred Shema - [Github](https://github.com/Ndi-Shema)
+- Joshua Bizima - [Github](https://github.com/jbizima)
+- Beline Marie Mugisha Ahujabe - [Github](https://github.com/Mugisha-Beline)
