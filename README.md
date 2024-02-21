@@ -46,7 +46,7 @@ To run Microblog on your local machine, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/microblog.git
+git clone https://github.com/jbizima/microblog-api.git
 
 # Navigate to the project directory
 cd microblog
